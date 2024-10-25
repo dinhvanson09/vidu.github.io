@@ -1,0 +1,14 @@
+/* CSS đơn giản cho trang */
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-color: #340edb;
+}
+
+h1 {
+    color: #8fa820;
+}
+
+p {
+    color: #666;
+}
